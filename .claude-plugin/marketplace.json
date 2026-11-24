@@ -1,0 +1,15 @@
+{
+    "name": "cruise-register",
+    "description": "Cruise Register: cruise prices, deals, itineraries and price alerts in Claude Code.",
+    "owner": {
+        "name": "Jacques Blom",
+        "url": "https://www.cruiseregister.com"
+    },
+    "plugins": [
+        {
+            "name": "cruise-register",
+            "source": "./",
+            "description": "Plan a cruise with real prices: find sailings with the all-in price for your party, plan port days, and get an email when a price drops."
+        }
+    ]
+}

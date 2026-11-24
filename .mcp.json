@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "cruise-register": {
+            "type": "http",
+            "url": "https://mcp.cruiseregister.com"
+        }
+    }
+}

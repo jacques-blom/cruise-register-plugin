@@ -1,0 +1,14 @@
+{
+    "name": "cruise-register",
+    "version": "1.0.0",
+    "description": "Plan a cruise with real prices: find sailings with the all-in price for your party, plan port days, and get an email when a price drops.",
+    "mcpServers": {
+        "cruise-register": {
+            "type": "http",
+            "url": "https://mcp.cruiseregister.com",
+            "oauth": {
+                "enabled": true
+            }
+        }
+    }
+}

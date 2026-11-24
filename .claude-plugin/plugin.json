@@ -1,0 +1,25 @@
+{
+    "name": "cruise-register",
+    "displayName": "Cruise Register",
+    "version": "1.0.0",
+    "description": "Plan a cruise with real prices: find sailings with the all-in price for your party, plan port days, and get an email when a price drops.",
+    "author": {
+        "name": "Jacques Blom",
+        "url": "https://www.cruiseregister.com"
+    },
+    "homepage": "https://www.cruiseregister.com",
+    "keywords": [
+        "cruise",
+        "travel",
+        "cruise deals",
+        "price alerts",
+        "shore excursions",
+        "itinerary"
+    ],
+    "icon": "./assets/icon.png",
+    "documentationUrl": "https://www.cruiseregister.com/mcp",
+    "license": "MIT",
+    "supportUrl": "https://www.cruiseregister.com/contact/",
+    "privacyPolicyUrl": "https://www.cruiseregister.com/privacy/",
+    "termsOfServiceUrl": "https://www.cruiseregister.com/terms/"
+}

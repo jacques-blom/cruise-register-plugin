@@ -1,0 +1,20 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "cruise-register",
+    "version": "1.0.0",
+    "description": "Plan a cruise with real prices: find sailings with the all-in price for your party, plan port days, and get an email when a price drops.",
+    "author": {
+        "name": "Jacques Blom",
+        "url": "https://www.cruiseregister.com"
+    },
+    "homepage": "https://www.cruiseregister.com",
+    "license": "MIT",
+    "keywords": [
+        "cruise",
+        "travel",
+        "cruise deals",
+        "price alerts",
+        "shore excursions",
+        "itinerary"
+    ]
+}
