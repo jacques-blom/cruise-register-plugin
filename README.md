@@ -26,7 +26,7 @@ Searching works straight away. To set up price alerts, connect your Cruise Regis
 
 Add `https://mcp.cruiseregister.com` to your assistant as a custom MCP server (steps for each app: https://www.cruiseregister.com/mcp). To give your assistant the skills too, copy the folders in `skills/` into its skills.
 
-Booking links go through cruiseregister.com to the booking site, and shore tours book on the tour operator's site. Some of these links are affiliate links that earn us a commission; it doesn't change the price.
+Booking links go through cruiseregister.com to the booking site. Some of these links are affiliate links that earn us a commission; it doesn't change the price.
 
 ## Licence
 
